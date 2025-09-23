@@ -80,6 +80,18 @@ whmcs-admin-darkmode/
 
 <hr>
 
+<hr>
+
+<h2>🖼️ Screenshot</h2>
+<p>Preview of WHMCS Admin Dark Mode in action:</p>
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/da8d08dc-2d85-4ca8-bd84-e97df829a8ea" />
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/d7492cdf-a415-4e37-bd0c-cb01992ac051" />
+
+
+
+<hr>
+
+
 <h2>⚙️ Requirements</h2>
 <ul>
   <li>✅ WHMCS 8.x or higher</li>
