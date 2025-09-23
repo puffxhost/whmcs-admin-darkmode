@@ -27,7 +27,7 @@ It includes customization options like brightness, sepia, contrast, and auto mod
     <th>Purpose</th>
   </tr>
   <tr>
-    <td><code>darkmode.php</code></td>
+    <td><code>puffxhost_darkmode.php</code></td>
     <td>Addon configuration file</td>
   </tr>
   <tr>
@@ -35,11 +35,11 @@ It includes customization options like brightness, sepia, contrast, and auto mod
     <td>Hooks to inject dark mode toggle and styles</td>
   </tr>
   <tr>
-    <td><code>assets/css/</code></td>
+    <td><code>lib</code></td>
     <td>Dark mode CSS stylesheets</td>
   </tr>
   <tr>
-    <td><code>assets/js/</code></td>
+    <td><code>js</code></td>
     <td>JavaScript for toggle and customization</td>
   </tr>
 </table>
