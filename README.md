@@ -67,12 +67,12 @@ It includes customization options like brightness, sepia, contrast, and auto mod
 <pre>
 whmcs-admin-darkmode/
 ├─ darkmode/
-│  ├─ darkmode.php
-│  ├─ hooks.php
-│  ├─ assets/
-│  │  ├─ css/
-│  │  └─ js/
-│  └─ templates/
+│  ├─ js/
+│  │   └─ darkreader.min.js
+│  └─ lib/
+│     └─ Admin.php
+├─ puffxhost_darkmode.php
+├─ hooks.php
 ├─ README.html
 ├─ LICENSE
 └─ .gitignore
