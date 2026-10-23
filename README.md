@@ -129,7 +129,7 @@ whmcs-admin-darkmode/
 
 <h2>👨‍💻 Author</h2>
 <p>Made with ❤️ by <strong>Nitin Mehta</strong><br>
-Instagram: <a href="https://instagram.com/unknown_coder1x" target="_blank">@unknown_coder1x</a></p>
+Instagram: <a href="https://instagram.com/nitinmehta.codes" target="_blank">@nitinmehta.codes</a></p>
 
 <hr>
 
